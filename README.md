@@ -1,7 +1,9 @@
 # Application pour gérer les trajets d'une société de bus
 ## Description
   Ce projet à été fait en binôme en Janvier 2026.
+  
   Codé en C il permet depuis la console du terminal et grâce à des fichiers .csv d'importer des données représenatnt de nombreux trajets de bus (numéro du bus, ville de départ, destination, date de départ, horaire de départ, horaire d'arrivée, liste des passagers (id, nom, prix de son billet)).
+  
   Ce projet propose une application pour gérer ces différents trajets à partir de fichiers .csv pouvant aller de 10 lignes à 5000 lignes de données, chacune représentant un trajet.
 
 ## Fonctionnalités
